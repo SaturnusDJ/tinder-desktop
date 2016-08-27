@@ -16,7 +16,7 @@
   },
   "MESSAGES": {
     "TITLE": "Berichten",
-    "MATCHES_COUNT": "Matches: {{count}}",
+    "MATCHES_COUNT": "{{count}} matches",
     "UNKNOWN": "Onbekend",
     "CHAT_WITH": "Gesprek met",
     "UNMATCH": "Match opheffen",

@@ -16,7 +16,7 @@
   },
   "MESSAGES": {
     "TITLE": "Üzenetek",
-    "MATCHES_COUNT": "Párok: {{count}}",
+    "MATCHES_COUNT": "{{count}} párok",
     "UNKNOWN": "Ismeretlen",
     "CHAT_WITH": "Csevegés vele:",
     "UNMATCH": "Szétválás",
