@@ -167,7 +167,6 @@ html, body, body > div.ng-scope {
     text-align: center;
     width: 640px;
     height: 640px;
-    border-radius: 10px;
     background: #FFF top left / contain no-repeat;
     z-index: 1000;
     position: absolute;
@@ -269,7 +268,6 @@ html, body, body > div.ng-scope {
 .small-photos img {
     width: 120px;
     height: 120px;
-    border-radius: 8px;
     overflow: hidden;
     cursor: pointer;
     border: 5px solid #DDD;
@@ -377,7 +375,6 @@ html, body, body > div.ng-scope {
 .match .thumbnail {
     display: inline-block;
     box-sizing: border-box;
-    border-radius: 50%;
     float: left;
     height: 42px;
     width: 42px;
@@ -496,7 +493,7 @@ html, body, body > div.ng-scope {
     padding: 10px 15px;
     color: white;
     background: #0B93F6;
-    border-radius: 25px;
+    border-radius: 15px;
     float: right;
     z-index: 10;
 }
@@ -530,7 +527,7 @@ html, body, body > div.ng-scope {
     z-index: 10;
     padding: 10px 15px;
     background: #E5E5EA;
-    border-radius: 25px;
+    border-radius: 15px;
     color: black;
     float: left;
 }
@@ -644,7 +641,6 @@ html, body, body > div.ng-scope {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    border-radius: 50px;
     background-color: #FAFAFA;
     padding: 10px;
     position: relative;
