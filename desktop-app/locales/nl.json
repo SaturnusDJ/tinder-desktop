@@ -26,8 +26,8 @@
   "PROFILE": {
     "TITLE": "Profiel",
     "AWAY": "hier vandaan",
-    "ACTIVE": "actief",
-    "AT": "op"
+    "ACTIVE": "online",
+    "AT": "om"
   },
   "SETTINGS": {
     "TITLE": "Instellingen",
