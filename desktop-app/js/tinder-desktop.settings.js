@@ -9,9 +9,9 @@
       sync : syncSettings,
       settings : {
         // set defaults here
-        landingPage : '/swipe',
-        messageListExtraInfo : 'yes',
-        distanceUnits: 'mi'
+        landingPage : '/messages',
+        messageListExtraInfo : 'no',
+        distanceUnits: 'km'
       }
     };
 
